@@ -8,7 +8,7 @@ try:
         loaded_model = pickle.load(model_file)
 except FileNotFoundError:
     st.error("Model file not found. Please ensure ML Model' is present in the directory.")
-    st.stop()
+    # st.stop()
 
 def predict_diabetes(input_data):
     """
