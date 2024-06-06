@@ -1,3 +1,5 @@
+![ViewCount](https://views.whatilearened.today/views/github/RanjeetKumbhar01/Streamlit_Intro.svg?cache=remove)
+
 # 🩺 Diabetes Prediction System
 
 Welcome to the Diabetes Prediction System! This Streamlit app predicts whether a person is diabetic based on input features such as number of pregnancies, glucose level, blood pressure, etc.
